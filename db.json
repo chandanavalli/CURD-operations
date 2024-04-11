@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": "4",
+      "name": "Akash",
+      "email": "akash@gmail.com",
+      "phone": "91837632"
+    },
+    {
+      "id": "7",
+      "name": "Mukesh",
+      "email": "vhgdh@gmail.com",
+      "phone": "865829759"
+    },
+    {
+      "id": "8",
+      "name": "Rajesh",
+      "email": "rajesh@gmail.com",
+      "phone": "894908430"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+} 
